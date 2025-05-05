@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Next.js, Node.js, and DevOps**
 - 👯 I’m looking to collaborate on **Open-source full-stack projects**
 - 💬 Ask me about **React, Node.js, GraphQL, and Docker**
-- 📫 How to reach me **momenhosnyemam@gmail.com**
+- 📫 How to reach me **hadeer.gamal3010@gmail.com**
 - ⚡ Fun fact **I love solving coding challenges**
 
 ---
@@ -22,9 +22,8 @@
 ## 📬 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/momenhosny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/momenhosny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a>
-<a href="https://github.com/momen124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/hader-gamal-5847061b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://www.linkedin.com/in/hader-gamal-5847061b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="linkedin" height="20" width="20" /></a>
+<a href="https://github.com/Hadiiir" target="blank"><img align="center" src="https://github.com/Hadiiir/airbnb-clone-project.git" alt="github" height="20" width="20" /></a>
 
 </p>
 
@@ -138,6 +137,6 @@
 ## 📊 GitHub Stats:
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momen124&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="momen124" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadiiiir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hadiiiir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momen124&show_icons=true&locale=en&theme=tokyonight" alt="momen124" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadiiiir&show_icons=true&locale=en&theme=tokyonight" alt="Hadiiiir" /></p>
