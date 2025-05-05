@@ -6,13 +6,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeergamal&label=Profile%20views&color=0e75b6&style=flat" alt="hadeergamal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HAdiiiir&label=Profile%20views&color=0e75b6&style=flat" alt="HAdiiiir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hadeergamal" target="blank"><img src="https://img.shields.io/twitter/follow/hadeergamal?logo=twitter&style=for-the-badge" alt="hadeergamal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hadergamal" target="blank"><img src="https://img.shields.io/twitter/follow/hadergamal?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I'm currently working on **Collaborative Task Management App**
-- 🌱 I'm currently learning **Next.js, Node.js, and DevOps**
-- 👯 I'm looking to collaborate on **Open-source full-stack projects**
+- 🔭 I’m currently working on **Collaborative Task Management App**
+- 🌱 I’m currently learning **Next.js, Node.js, and DevOps**
+- 👯 I’m looking to collaborate on **Open-source full-stack projects**
 - 💬 Ask me about **React, Node.js, GraphQL, and Docker**
 - 📫 How to reach me **hadeer.gamal3010@gmail.com**
 - ⚡ Fun fact **I love solving coding challenges**
@@ -22,8 +22,9 @@
 ## 📬 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hader-gamal-5847061b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadeer-gamal" height="30" width="40" /></a>
-<a href="https://github.com/Hadiiir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hadeergamal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hader-gamal-5847061b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://www.linkedin.com/in/hader-gamal-5847061b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="linkedin" height="20" width="20" /></a>
+<a href="https://github.com/Hadiiir" target="blank"><img align="center" src="https://github.com/Hadiiir/airbnb-clone-project.git" alt="github" height="20" width="20" /></a>
+
 </p>
 
 ---
@@ -135,6 +136,7 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadiiir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hadiiir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadiiir&show_icons=true&locale=en&theme=tokyonight" alt="Hadiiir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadiiiir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hadiiiir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadiiiir&show_icons=true&locale=en&theme=tokyonight" alt="Hadiiiir" /></p>
