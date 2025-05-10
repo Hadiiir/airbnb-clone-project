@@ -1,8 +1,20 @@
 {
     "cSpell.words": [
         "Adiiiir",
+        "authtoken",
+        "corsheaders",
+        "djangorestframework",
+        "filterset",
         "Gamal",
+        "gunicorn",
         "Hadeer",
-        "Hadiiiir"
+        "Hadiiiir",
+        "psycopg",
+        "PYTHONDONTWRITEBYTECODE",
+        "PYTHONUNBUFFERED",
+        "redoc",
+        "viewsets",
+        "wsgi",
+        "yasg"
     ]
 }
