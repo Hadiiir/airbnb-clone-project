@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://yourportfolio.com)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/HAdiiiir)
 
 # Hi 👋, I'm Hadeer Gamal
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HAdiiiir&label=Profile%20views&color=0e75b6&style=flat" alt="HAdiiiir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hadergamal" target="blank"><img src="https://img.shields.io/twitter/follow/hadergamal?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hadergamal" target="blank"><img src="https://img.shields.io/twitter/follow/hadergamal?logo=twitter&style=for-the-badge" alt="hadergamal" /></a> </p>
 
-- 🔭 I’m currently working on **Collaborative Task Management App**
-- 🌱 I’m currently learning **Next.js, Node.js, and DevOps**
-- 👯 I’m looking to collaborate on **Open-source full-stack projects**
+- 🔭 I'm currently working on **Collaborative Task Management App**
+- 🌱 I'm currently learning **Next.js, Node.js, and DevOps**
+- 👯 I'm looking to collaborate on **Open-source full-stack projects**
 - 💬 Ask me about **React, Node.js, GraphQL, and Docker**
 - 📫 How to reach me **hadeer.gamal3010@gmail.com**
 - ⚡ Fun fact **I love solving coding challenges**
@@ -22,16 +22,15 @@
 ## 📬 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hader-gamal-5847061b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://www.linkedin.com/in/hader-gamal-5847061b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="linkedin" height="20" width="20" /></a>
-<a href="https://github.com/HAdiiir" target="blank"><img align="center" src="https://github.com/HAdiiir/airbnb-clone-project.git" alt="github" height="20" width="20" /></a>
-
+<a href="https://www.linkedin.com/in/hader-gamal-5847061b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hader-gamal" height="30" width="40" /></a>
+<a href="https://github.com/HAdiiiir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HAdiiiir" height="30" width="40" /></a>
 </p>
 
 ---
+
 ## 🛠 Languages and Tools:
 
 <p align="left">
-
   <!-- Hardware & IoT -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
@@ -124,19 +123,20 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://graphql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HAdiiiir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="HAdiiiir" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadiiiir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hadiiiir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HAdiiiir&show_icons=true&locale=en&theme=tokyonight" alt="HAdiiiir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadiiiir&show_icons=true&locale=en&theme=tokyonight" alt="Hadiiiir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HAdiiiir&theme=tokyonight" alt="HAdiiiir" /></p>
